@@ -6,7 +6,7 @@
 
 ## Description
 
-_I learned a lot about front end web design using [learn how to program](https://www.learnhowtoprogram.com) (Epicodus' curriculum available to everyone for free 😊), but I wanted to learn more about data structures and algorithms. A little googling told me Aditya Bhargava's book was the place to start. This is the repo where I'll push all of the books algorithms that I write in Javscript as I work through them._
+_I learned a lot about front end web design using [learn how to program](https://www.learnhowtoprogram.com) (Epicodus' curriculum available to everyone for free 😊), but I wanted to learn more about data structures and algorithms. A little googling told me Aditya Bhargava's book was the place to start. This is the repo where I'll push all of the book's algorithms that I write in Javscript as I work through them._
 
 ## Setup/Installation Requirements
 
