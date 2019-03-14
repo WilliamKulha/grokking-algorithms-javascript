@@ -17,3 +17,23 @@ const binarySearch = (list, item) => {
   return (list[mid] !== item) ? -1 : mid;
 }
 
+// Recursive Version
+
+// const recursiveBinarySearch = (list, item) => {
+//   let guess = Math.floor((0 + list.length -1) / 2);
+//   if (list.length === 1) {
+//    if (list[0] === item) {
+//      return list[0];
+//    }
+//   }
+//   else {
+//     if (list[guess] > item) {
+//       list.splice((guess -1));
+//       return recursiveBinarySearch(list, item);
+//     } else if (list[guess] < item) {
+//       list.splice((guess + 1));
+//       return recursiveBinarySearch(list, item);
+//     }
+//   }
+// }
+
