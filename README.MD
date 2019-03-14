@@ -1,4 +1,4 @@
-# _Grokking Alogrithms in Javascript_
+# _Grokking Algorithms in Javascript_
 
 #### _A repo with all the algorithms in Aditya Bhargava's 'Grokking Alogrithms' that I've write in Javascript and any other practice I've done with them, 3/3/2018._
 
