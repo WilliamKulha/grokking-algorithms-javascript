@@ -13,7 +13,6 @@ const findBiggestNumber = (arr) => {
     } else {
       arr.splice(1, 1);
       return findBiggestNumber(arr);
-    }
-  
+    }  
   }       
 }
