@@ -1,11 +1,19 @@
-export default deque = () => {
+export default function Deque() {
   this.queue = new Array ();
 
-  this.popFront = () => { this.queue.shift(); }
+  this.popFront = function() { 
+    this.queue.shift(); 
+  }
 
-  this.pushToEnd = (valueToPush) => { this.queue.push(valueToPush); }
+  this.pushToEnd = function(valueToPush) {
+    this.queue.push(valueToPush); 
+  }
 
-  this.popEnd = () => { this.queue.pop(); }
+  this.popEnd = function() {
+    this.queue.pop(); 
+  }
 
-  this.pushToFront = (valueToPush) => { this.queue.unshift(valueToPush); }
+  this.pushToFront = function(valueToPush) {
+    this.queue.unshift(valueToPush);
+  }
 }
